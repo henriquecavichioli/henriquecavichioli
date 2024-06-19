@@ -1,6 +1,6 @@
 ### 🚀 Henrique Neves Cavichioli 🚀
 💡 Meu encanto por tecnologia e inovação, foi imprescindível na tomada de decisão para escolher minha área.
-Sou formado em Análise e Desenvolvimento de Sistemas na Faculdade Impacta e me especializo em desenvolvimento Back-end através de cursos complementares.
+Sou formado em Análise e Desenvolvimento de Sistemas na Faculdade Impacta e estou cursando MBA de Cloud Computing e Devops também na Faculdade Impacta.
 
 
 
